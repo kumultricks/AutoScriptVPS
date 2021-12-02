@@ -1,11 +1,11 @@
 #!/bin/bash
 # ******************************************
-# Program: Autoscript Setup VPS 2021
-# Developer: KingKongVPN
-# Nickname: xiihaiqal
-# Modify : @xiihaiqal
+# Program: Autoscript Setup VPS 2022
+# Developer: SquidPNG
+# Nickname: www.squidpng.com
+# Modify : @squid675
 # Date: 04-01-2019
-# Last Updated: 14-01-2021
+# Last Updated: 03-12-2021
 # ******************************************
 color1='\e[031;1m'
 color2='\e[34;1m'
@@ -13,7 +13,7 @@ color3='\e[0m'
 
 clear
 echo -e "${color1}========================================${color3}"
-echo -e "* ${color2}SCRIPT AUTO INSTALL BY KingKongVPN ${color3}*"
+echo -e "* ${color2}SCRIPT AUTO INSTALL BY SQUIDPNG${color3}*"
 echo -e "${color1}========================================${color3}"
 echo -e " "
 echo -e "This Menu Still Under Development,Please Use Menu 1"
